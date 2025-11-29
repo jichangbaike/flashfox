@@ -106,6 +106,8 @@ FlashFox（闪狐云）是一家 2024 年开始运营的 IPLC 专线机场服务
 > - 不限客户端数量，但建议在合理范围内使用，避免过多设备同时高强度占用带宽；  
 > - 若有节日折扣、促销活动或优惠码等，请以 FlashFox 官网公告为准。
 
+<img src="[https://yourcdn.com/cloud.png](https://raw.githubusercontent.com/jichangbaike/flashfox/refs/heads/main/flashfox-test.png)" width="1000">
+
 ---
 
 ## 推荐人群与选购建议
