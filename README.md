@@ -13,7 +13,7 @@ FlashFox（闪狐云）是一家 2024 年开始运营的 IPLC 专线机场服务
 ## 快速入口
 
 - 👉 **FlashFox 官方注册入口**：  
-  [https://finalto.xyz/5TCR2m](https://finalto.xyz/5TCR2m)
+  [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续的订阅获取和客户端配置步骤，可参考本说明文档。
 
@@ -158,7 +158,7 @@ FlashFox 采用通用协议与订阅链接模式，通常支持以下平台（�
 
 1. **访问 FlashFox 官方注册入口**  
    通过本说明文档中的注册链接进入 FlashFox 用户中心：  
-   [https://finalto.xyz/5TCR2m](https://finalto.xyz/5TCR2m)
+    [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
 
 2. **注册并登录账户**  
    使用常用邮箱等方式注册账号，并完成登录验证。
@@ -219,6 +219,6 @@ A：建议优先查看 FlashFox 官网的帮助文档、公告与使用说明。
 ## 官方注册入口与使用提示
 
 - 👉 **FlashFox 官方注册入口**：  
-  [https://finalto.xyz/5TCR2m](https://finalto.xyz/5TCR2m)
+   [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
 
 > 建议将本说明文档与个人常用客户端配置一并收藏，使用过程中请严格遵守中国大陆及各节点所在地区的法律法规与服务条款。
