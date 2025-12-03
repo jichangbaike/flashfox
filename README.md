@@ -137,7 +137,7 @@ FlashFox（闪狐云）是一家 2024 年开始运营的 IPLC 专线机场服务
 FlashFox 采用通用协议与订阅链接模式，通常支持以下平台（以官网实际支持范围为准）：
 
 - **桌面端**  
-  - Windows：可配合常见客户端（例如 Clash 系列、NekoRay 等）使用；  
+  - Windows：可配合常见客户端 Clash Verge、FlClash 等使用；  
   - macOS：可使用 ClashX、Clash Verge 等图形客户端导入订阅。
 
 - **移动端**  
