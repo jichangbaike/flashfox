@@ -107,7 +107,9 @@
 > - 不限客户端数量，但建议在合理范围内使用，避免过多设备同时高强度占用带宽；  
 > - 若有节日折扣、促销活动或优惠码等，请以 FlashFox 官网公告为准。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/flashfox/refs/heads/main/9409.png" width="1000" >
+<img src="https://raw.githubusercontent.com/jichangbaike/flashfox/refs/heads/main/images/flashfox-test-20260214.png" alt="闪狐云 FlashFox 测试图" width="900" >
+
+> 测试时间：2026-02-14 
 
 ---
 ## 限时活动和优惠码
