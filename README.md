@@ -6,7 +6,7 @@
 
 > 本仓库用于整理闪狐云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下完成日常访问需求。
 > 
-> 最后更新：2026-06-01（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-08-13（如套餐或线路有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -18,7 +18,7 @@
 ## 快速入口
 
 - 👉 **闪狐云官方注册入口**：  
-  [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
+  [进入闪狐云 FlashFox 官网](https://finalto.xyz/Y9gTes)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续的订阅获取和客户端配置步骤，可参考本说明文档。
 
@@ -71,13 +71,13 @@
 根据现有信息，闪狐云提供的节点大致包括：
 
 - **亚洲地区**：  
-  - 香港、台湾、日本、新加坡、~~韩国、马来西亚、泰国、越南、菲律宾、印尼~~等；
+  - 香港、台湾、日本、新加坡、泰国；
 
 - **欧美地区**：  
-  - 美国、~~英国、德国、法国~~等；
+  - 美国；
 
 - **其他地区**：  
-  - ~~土耳其、阿根廷、巴西~~等部分地区节点。
+  - 土耳其。
 
 多区域节点布局有利于：
 
@@ -100,12 +100,12 @@
 ### 年付礼包与一次性套餐
 
 
-| 套餐名称                  | 价格         | 每 30 天流量  | 主要特点                                                     | 适用人群与场景                       |
-|---------------------------|--------------|---------------|--------------------------------------------------------------|--------------------------------------|
-| Basic Plan套餐            | ¥20 / 月     | 120G / 月     | 支持季度/半年/年付优惠；解锁 ChatGPT / TikTok；不限速       | 轻度科学上网用户                     |
-| Standard Plan套餐         | ¥40 / 月     | 240G / 月     | 全 IPLC 高速专线；客服响应较快；支持多设备                  | 日常翻墙 / 稳定视频观看             |
-| Advanced Plan套餐         | ¥72 / 月     | 500G / 月     | 原生 IP；解锁多类流媒体 / ChatGPT / TikTok                  | AI 使用者 / 视频重度用户            |
-| Premium Plan套餐          | ¥125 / 月    | 1000G / 月     | 面向高频访问国外服务；适合多人长期使用；支持长期付费折扣    | 企业办公 / 团队或家庭多终端共享     |
+| 套餐名称     | 价格   | 每 30 天流量  |    适用人群与场景           |
+|-------------|--------------|---------------|---------   -----------|
+| Basic Plan套餐 | ¥20 /月  | 120G / 月   |  轻度科学上网用户            |
+| Standard Plan套餐  | ¥40 /月 | 240G /月 | 日常使用 / 视频观看           |
+| Advanced Plan套餐   | ¥72 /月  | 500G /月   |  AI 使用者 / 视频重度用户   |
+| Premium Plan套餐 | ¥125 /月 | 1000G /月  |  企业办公 / 团队或家庭多终端共享 |
 
 > 说明：  
 > - 所有套餐默认为“每 30 天流量重置”，首次开通起按自然周期计算；  
@@ -158,11 +158,11 @@
 
 - **Windows 端**
   - 支持 Win/10/11 操作系统
-  - [下载Windows 客户端](https://dl.pbb.dexi009.com/apps/ff/ffapp-lite.exe)
-   
+  - [下载Windows 客户端](https://dl.pbbapi.hnlskj98.com/apps/ff/ffapp-lite.exe)
+  
 - **macOS 端**
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片；
-  - [下载macOS 客户端](https://dl.pbb.dexi009.com/apps/ff/ffapp-lite.pkg)
+  - [下载macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/ff/ffapp-lite.pkg)
 
 - **iOS / iPadOS 端**   
   - 外服 App Store 搜索：[**nextin**](https://apps.apple.com/us/app/nextin/id6754002454)，安装完成 (需要 iOS 15+)
@@ -170,17 +170,17 @@
   - 输入您的 闪狐云 的账号和密码；
   - 登录成功后即可看到自己的 闪狐云 订阅信息；
   - 点击连接后就可以正常使用。
-   
+  
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视; 
-  - [点击下载 Android 客户端](https://dl.pbb.dexi009.com/apps/ff/ffapp-lite.apk)
- 
+  - [点击下载 Android 客户端](https://dl.pbbapi.hnlskj98.com/apps/ff/ffapp-lite.apk)
+
 - **Linux 端**
   - 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+；
-  - [下载macOS 客户端](https://dl.pbb.dexi009.com/apps/ff/ffapp-linux-lite.zip)
+  - [下载macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/ff/ffapp-linux-lite.zip)
 
 - **OpenWrt**
-  - [下载OpenWrt插件](https://dl.pbb.dexi009.com/apps/ff/ffapp-openwrt-lite.zip)
+  - [下载OpenWrt插件](https://dl.pbbapi.hnlskj98.com/apps/ff/ffapp-openwrt-lite.zip)
 
 > 推荐客户端的具体名称、下载方式与配置示例，请以闪狐云官网使用说明为准，避免从不明来源下载第三方软件。
 
@@ -192,7 +192,7 @@
 
 1. **访问闪狐云官方注册入口**  
    通过本说明文档中的注册链接进入用户中心：  
-    [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
+   [进入闪狐云 FlashFox 官网](https://finalto.xyz/Y9gTes)
 
 2. **注册并登录账户**  
    使用常用邮箱等方式注册账号，并完成登录验证。
@@ -252,7 +252,7 @@ A：建议优先查看闪狐云官网的帮助文档、公告与使用说明。�
 ## 官方注册入口与使用提示
 
 - 👉 **闪狐云（FlashFox）官方注册入口**：  
-   [https://finalto.xyz/Y9gTes](https://finalto.xyz/Y9gTes)
+   [进入闪狐云 FlashFox 官网](https://finalto.xyz/Y9gTes)
 
 > 建议将本说明文档与个人常用客户端配置一并收藏，使用过程中请严格遵守中国大陆及各节点所在地区的法律法规与服务条款。
 
@@ -267,5 +267,5 @@ A：建议优先查看闪狐云官网的帮助文档、公告与使用说明。�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-06-01`  
-- **Version:** `v1.1`
+- **Last Updated:** `2026-08-13`  
+- **Version:** `v1.2`
